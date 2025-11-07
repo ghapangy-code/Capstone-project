@@ -1,2 +1,2 @@
-# Budget-Analyzer
+# Inventory Tracker 
 Final project 
